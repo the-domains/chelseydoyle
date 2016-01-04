@@ -1,6 +1,6 @@
 name: chelseydoyle
 favicon: null
-layout_spectrum: 1
+layout_spectrum: 0.25229
 typography_spectrum: 0.3952
 collections:
   - index:
@@ -35,6 +35,6 @@ color:
     - '#4C5B88'
   brandStrength: 0.5
   lightness: 1
-  saturation: 0.5
+  saturation: 1
   rhythmicContrast: 0.5
 purpose: []
