@@ -3,11 +3,11 @@ inFeed: true
 hasPage: true
 inNav: true
 inLanguage: null
-starred: true
+starred: false
 keywords: []
 description: 'Self-Directed | Letterpress | 6⅝" x 8½" | 2010'
-datePublished: '2016-01-04T21:40:34.370Z'
-dateModified: '2016-01-04T21:40:27.053Z'
+datePublished: '2016-01-04T21:41:19.998Z'
+dateModified: '2016-01-04T21:41:16.505Z'
 title: Triangle Study
 author: []
 authors: []
