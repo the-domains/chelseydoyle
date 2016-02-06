@@ -1,40 +1,40 @@
-name: chelseydoyle
-favicon: null
-layout_spectrum: 0
-typography_spectrum: 0.3952
+layout_spectrum: 0.306383
+opengraph:
+  image: null
+  type: null
+  appId: null
 collections:
   - index:
       path: /
       number: 15
       paginate: true
       navigable: true
-    permalink:
-      path: '/:title/'
     feed:
       path: /rss.xml
       format: rss
       number: 10
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
+    permalink:
+      path: '/:title/'
+purpose: []
 color:
+  saturation: 1
+  brandStrength: 0
+  rhythmicContrast: 0.5
   brandColors:
     - '#B3BECE'
     - '#FBFCF0'
     - '#27284A'
     - '#6E7FAC'
     - '#4C5B88'
-  brandStrength: 0
   lightness: 1
-  saturation: 1
-  rhythmicContrast: 0.5
-purpose: []
+typography_spectrum: 0.4425532
+cta:
+  bucket: null
+  version: null
+  domain: null
+analytics:
+  twitter: null
+  google: null
+  facebook: null
+favicon: null
+name: chelseydoyle
