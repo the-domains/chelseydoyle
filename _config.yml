@@ -1,7 +1,7 @@
 name: chelseydoyle
 favicon: null
 layout_spectrum: 0.92693
-typography_spectrum: 0.4425532
+typography_spectrum: 0.23258
 collections:
   - index:
       path: /
@@ -28,11 +28,11 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#B3BECE'
-    - '#FBFCF0'
-    - '#27284A'
-    - '#6E7FAC'
-    - '#4C5B88'
+    - '#ffffff'
+    - '#f05536'
+    - '#59585d'
+    - '#6ecff0'
+    - '#f99f25'
   brandStrength: 0
   lightness: 1
   saturation: 1
